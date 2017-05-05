@@ -402,6 +402,19 @@ header.open .menu-text {
   display: block;
 }
 
+.object-mission mybar01{
+    width: 100%;
+  max-width:500px;
+  margin: 0 auto;
+  display: block;
+}
+
+.object-mission mybar02{
+width: 100%;
+  max-width:500px;
+  margin: 0 auto;
+  display: block;
+}
 
 .mission-text-area {
   width: 100%;
